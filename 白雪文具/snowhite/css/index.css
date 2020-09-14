@@ -1,0 +1,129 @@
+body{
+    min-width: 1200px;
+}
+.top{
+    width: 1200px;
+    margin-left: 30px;
+    padding: 30px 0;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.top>img{
+    width: 222px;
+    height: 54px;
+    float: left;
+}
+.top>ul{
+    float: right;
+    margin: 0;
+    padding: 0;
+}
+.top>ul>li{
+    float: left;
+    float: left;
+    height: 22px;
+    line-height: 22px;
+    vertical-align: middle;
+    border-right: 1px solid #CCC;
+    padding: 5px 0;
+    margin-top: 10px;
+    overflow: hidden;
+}
+.top>ul>li>a{
+    font-size: 14px;
+    color: #4e4e4e;
+    height: 22px;
+    line-height: 22px;
+    padding: 0 15px;
+    display: block;
+    text-decoration: none;
+}
+.top>ul>li>a>b{
+    float: right;
+}
+.top>.yy>li{
+    position: relative;
+    display: inline;
+    width: 80px;
+    float: right;
+    margin-top: 16px;
+}
+.top>.yy>li>a{
+    font-size: 14px;
+    color: #BB0917;
+    font-weight: bold;
+    width: 80px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
+.footer{
+    background: #fafafa;
+    padding: 25px 0;
+}
+.footer>.bottom{
+    width: 680px;
+    margin: 0 auto 30px;
+}
+.footer>.bottom>a{
+    display: block;
+    float: left;
+    margin: 0 13px;
+    font-size: 14px;
+    color: #333333;
+    text-decoration: none;
+}
+.footer>p{
+    text-align: center;
+    color: #484848;
+    font-size: 14px;
+    margin-top: -10px;
+}
+.footer>p>a{
+    text-decoration: none;
+    color: #333333;
+}
+.kuang{
+    line-height: 40px;
+    background: #08578a;
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+    margin-top: -10px;
+}
+.one{
+    position: relative;
+    left: 5%;
+    right: 5%;
+    width: 90%;
+    height: 400px;
+}
+.one>.left{
+    float: left;
+    width: 180px;
+    height: 350px;
+}
+.right{
+    width: 50%;
+    height: 400px;
+    margin-left: 3%;
+    float: left;
+}
+.two{
+    margin-top: 10px;
+    border-bottom: 1px solid #CCC;
+    height: 50px;
+    line-height: 50px;
+    font-size: 14px;
+    padding-left: 70px;
+    color: #4e4e4e;
+}
+.three{
+    margin-top: 10px;
+    position: relative;
+    left: 8%;
+    right: 8%;
+    width: 84%;
+    height: 400px;
+}
+

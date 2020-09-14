@@ -1,0 +1,91 @@
+.kj{
+    background: url(../img/bj.png) repeat-x;
+    height: 58px;
+    padding: 4px;
+}
+.kj>.kjl{
+    width: 1150px;
+    margin: 0 auto;
+}
+.kj>.kjl>ul{
+    list-style-type: none;
+}
+.kj>.kjl>ul>li{
+    position: relative;
+    display: inline;
+    margin: 0 20px;
+}
+.kj>.kjl>ul>li>a{
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+    width: 120px;
+    display: block;
+    text-decoration: none;
+    float: left;
+    margin-right: 32px;
+}
+.one>.left>ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+.one>.left>ul>li{
+    width: 100%;
+    height: 28px;
+    line-height: 28px;
+}
+.one>.left>ul a{
+    color: #000;
+    text-decoration: none;
+    font-size: 14px;
+}
+.one>.left span{
+    float: right;
+}
+.one>.left>ul li.ti{
+    background-color: #a90000;
+    color: #fff;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.one>.left>ul li.ti>a{
+    font-size: 16px;
+    color: #fff;
+}
+.one>.left>ul li{
+    background-color: #f3f3f3;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.two>input{
+    margin-left: 60%;
+    height: 35px;
+    width: 310px;
+    border: 1px solid #e7e7e7;
+    color: #dedede;
+    font-size: 16px;
+}
+.two>a>img{
+    vertical-align: middle;
+}
+.two{
+    line-height: 51px;
+}
+.o,.t,.f,.s{
+    width: 23%;
+    height: 350px;
+    padding: 0 10px 0 10px;
+    float: left;
+}
+.tu{
+    width: 100%;
+    height: auto;
+}
+.three a{
+    text-decoration: none;
+    color: #000;
+    text-align: center;
+    display: block;
+    width: 100%;
+}
